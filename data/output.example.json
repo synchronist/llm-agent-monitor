@@ -1,0 +1,20 @@
+[
+  {
+    "task_id": "task-001",
+    "provider": "mock",
+    "status": "success",
+    "latency_ms": 0.003,
+    "response": "[MOCK] Resposta simulada para: Explique em poucas palavras o que é uma API REST.",
+    "timestamp": "2026-09-11T20:04:55.674422+00:00",
+    "error": null
+  },
+  {
+    "task_id": "task-002",
+    "provider": "mock",
+    "status": "success",
+    "latency_ms": 0.001,
+    "response": "[MOCK] Resposta simulada para: Liste três aplicações práticas de inteligência artificial na indústria.",
+    "timestamp": "2026-09-11T20:04:55.674422+00:00",
+    "error": null
+  }
+]
